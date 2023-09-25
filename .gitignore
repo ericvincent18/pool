@@ -1,0 +1,5 @@
+virtualenv
+.virtualenv
+./virtualenv
+.vscode
+configs.cpython-38.pyc
